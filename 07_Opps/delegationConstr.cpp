@@ -27,7 +27,7 @@ class Chai{
 
         }
 
-        Chai(string name): Chai(name,1,{"water ","honey ","Sugar "}){}
+        Chai(string name): Chai(name,1,{"water ","honey ","Sugar "}){} 
 
 
         void displayDetails(){
