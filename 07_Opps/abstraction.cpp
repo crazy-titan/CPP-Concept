@@ -61,6 +61,7 @@ int main(){
     GreenTea greenTea; // made an object from GreenTea class.
     MasalaTea masalaTea; // made an object from Masala Tea.
 
-    greenTea.orderTea();
+    greenTea.orderTea(); // now you can use this orderTea which is not 
+    // mentioned in GreenTea and Masala Tea either.
     return 0;
 }
